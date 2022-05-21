@@ -1,5 +1,5 @@
 Hi, my name is Thamires and I'm a Law School graduate currently majoring in Analysis and Systems Development.
-I'm extremelly interested in computer science, UI/UX design and illustration
+I'm extremelly interested in computer science, UI/UX design and illustration.
 Apart from working in the legal field I've worked as a UI/UX designer and I currently work as a front-end developer.
 
 - Where to find me:
