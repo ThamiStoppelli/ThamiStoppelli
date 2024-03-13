@@ -7,10 +7,15 @@ My main work areas are web development (React and Node), mobile develpment (Reac
 🤝  I'm open to collaborating on any projects with React, Typescript, React Native and Node
 ⚡  Also open to working with Design Research and UI/UX Design
 
-Skills
-GitJavaScriptHTML5ReactCSS3CSSViteNodeJSExpressMongoDBMySQLPostgreSQLTypeScript
+### Skills
+![JavaScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg) ![React](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg) ![HTML5](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg) ![CSS3](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg) ![NodeJS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg)
+Git
+Express
+MongoDB
+MySQL
+TypeScript
 
-Socials
+### Socials
 [LinkedIn](https://www.linkedin.com/in/thamires-stoppelli-6ab51a175/), [Instagram](https://www.instagram.com/thamistoppelli/)
 
 <!---
