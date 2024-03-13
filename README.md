@@ -8,7 +8,8 @@ My main work areas are web development (React and Node), mobile develpment (Reac
 ⚡  Also open to working with Design Research and UI/UX Design
 
 ### Skills
-![JavaScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg) ![React](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg) ![HTML5](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg) ![CSS3](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg) ![NodeJS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg)
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" style="width:10px;height:10px;"> 
+![React](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg) ![HTML5](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg) ![CSS3](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg) ![NodeJS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg)
 Git
 Express
 MongoDB
