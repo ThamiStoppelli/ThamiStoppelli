@@ -1,10 +1,10 @@
-Hi, my name is Thamires and I'm a software developer with a major in Analysis and Systems Development, a degree in Law and work background as a lawyer.
+Hi, my name is Thamires and I'm a software developer with a major in Analysis and Systems Development, a degree in Law, work background as a lawyer and international work experience (USA, Portugal and Brazil).
 
-My main work areas are web development (React and Node), mobile develpment (React Native) and UI/UX Design (Figma), with work experience in all of them.
+My main work areas are web development (React and Angular with JS or TS; Node JS and C#), mobile develpment (React Native) and UI/UX Design (Figma), with work experience in all of them.
 
 🌍  I'm based in Fortaleza, Brazil  
-✉️  You can contact me at thamires_sr@hotmail.com  
-🤝  I'm open to collaborating on any projects with React, Typescript, React Native and Node  
+✉️  You can contact me through thamires_sr@hotmail.com  
+🤝  I'm open to collaborating on any projects with React, JavaScript, Typescript, Angular, React Native, Node JS, C# and more
 ⚡  Also open to working with Design Research and UI/UX Design
 
 **Skills**  
