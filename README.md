@@ -17,9 +17,23 @@ Currently focused on international opportunities in frontend, UI/UX-focused and 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" style="width:40px;height:40px;"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" style="width:40px;height:40px;"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" style="width:40px;height:40px;"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" style="width:40px;height:40px;"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" style="width:40px;height:40px;"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" style="width:40px;height:40px;"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" style="width:40px;height:40px;"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" style="width:40px;height:40px;"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" style="width:40px;height:40px;"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" style="width:40px;height:40px;"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" style="width:40px;height:40px;">
 
 ## Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thamires-stoppelli-6ab51a175/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thamistoppelli/)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/thamirestoppelli)
+<p align="left">
+  <a href="https://thamiresstoppelli-portfolio.vercel.app/" target="_blank">
+    <img src="https://cdn.simpleicons.org/vercel/000000" alt="Portfolio" width="32" style="margin-right: 12px;" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/thamires-stoppelli-6ab51a175/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="32" style="margin-right: 12px;" />
+  </a>
+
+  <a href="https://www.behance.net/thamirestoppelli" target="_blank">
+    <img src="https://cdn.simpleicons.org/behance/1769FF" alt="Behance" width="32" style="margin-right: 12px;" />
+  </a>
+
+  <a href="https://www.instagram.com/thamistoppelli/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="32" />
+  </a>
+</p>
 
 <!---
 ThamiStoppelli/ThamiStoppelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
