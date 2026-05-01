@@ -21,15 +21,12 @@ Currently focused on international opportunities in frontend, UI/UX-focused and 
   <a href="https://thamiresstoppelli-portfolio.vercel.app/" target="_blank">
     <img src="https://cdn.simpleicons.org/vercel/000000" alt="Portfolio" width="32" style="margin-right: 12px;" />
   </a>
-
   <a href="https://www.linkedin.com/in/thamires-stoppelli-6ab51a175/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="32" style="margin-right: 12px;" />
+    <img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMS0xMC5wbmc.png" alt="LinkedIn" width="32" style="margin-right: 12px;" />
   </a>
-
   <a href="https://www.behance.net/thamirestoppelli" target="_blank">
     <img src="https://cdn.simpleicons.org/behance/1769FF" alt="Behance" width="32" style="margin-right: 12px;" />
   </a>
-
   <a href="https://www.instagram.com/thamistoppelli/" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="32" />
   </a>
