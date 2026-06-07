@@ -1,36 +1,46 @@
-# Hi, I'm Thamires Stoppelli
+# Hi, I'm Thamires 👋
 
-Design Engineer, focused on building intuitive, responsive and user-centered web and mobile applications.
+**Design Engineer — React, TypeScript & Figma**
 
-I work mainly with React, Next.js, TypeScript, UI/UX Design, Figma, Angular and React Native. My background combines software development, product thinking and interface design, with experience in enterprise systems, SaaS platforms, mobile apps and data-driven products.
+I design the interface *and* write the production code. The rare hybrid where the
+same person owns the design file and the pull request — so the craft survives all
+the way from Figma into what ships.
 
-Currently focused on international opportunities in frontend and UI/UX design roles.
+4+ years building production React/TypeScript apps · 5+ years in Figma · EU
+work-eligible (Italian citizen) · fluent English · working remotely from anywhere.
 
-## Featured Work
+Currently shipping design + frontend at Spread Tecnologia.
 
-- Portfolio: https://thamiresstoppelli-portfolio.vercel.app/
-- Time & Currency App: mobile app for comparing time zones, weather and currencies
-- Busca Saudável: food search platform for allergies and dietary restrictions
-- Blizzard: energy monitoring and control dashboard
+---
 
-## Tech Stack
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" style="width:40px;height:40px;"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" style="width:40px;height:40px;"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" style="width:40px;height:40px;"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" style="width:40px;height:40px;"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" style="width:40px;height:40px;"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" style="width:40px;height:40px;"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" style="width:40px;height:40px;"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" style="width:40px;height:40px;"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" style="width:40px;height:40px;"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" style="width:40px;height:40px;"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" style="width:40px;height:40px;">
+🔭 **What I do**
+- End-to-end product design — from research and Figma exploration to high-fidelity UI
+- Production frontend — React, Next.js, TypeScript, React Native, Tailwind, styled-components
+- Design systems, reusable components, and keeping craft consistent across a product
 
-## Contact
-<p align="left">
-  <a href="https://thamiresstoppelli-portfolio.vercel.app/" target="_blank">
-    <img src="https://www.svgrepo.com/show/438949/web-round.svg" alt="Portfolio" width="32" style="margin-right: 12px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/thamires-stoppelli-6ab51a175/" target="_blank">
-    <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" alt="LinkedIn" width="32" style="margin-right: 12px;" />
-  </a>
-  <a href="https://www.behance.net/thamirestoppelli" target="_blank">
-    <img src="https://cdn.simpleicons.org/behance/1769FF" alt="Behance" width="32" style="margin-right: 12px;" />
-  </a>
-  <a href="https://www.instagram.com/thamistoppelli/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="32" />
-  </a>
-</p>
+📫 **Reach me**
+[Email](mailto:thamiresstoppelli@gmail.com) ·
+[LinkedIn](https://www.linkedin.com/in/thamires-stoppelli/) ·
+[Portfolio](https://thamiresstoppelli-portfolio.vercel.app/)
+
+---
+
+### Skills
+
+![React](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg)
+![Next.js](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg)
+![TypeScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg)
+![JavaScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg)
+![React Native](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg)
+![Tailwind](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg)
+![Figma](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg)
+![Node.js](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg)
+![Git](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg)
+
+---
+
+*Also: Bachelor of Law and 2nd place at the Global Legal Hackathon 2022 — which means
+I'm unusually at home designing for fintech, legal-tech, and compliance-heavy products.*
 
 <!---
 ThamiStoppelli/ThamiStoppelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
