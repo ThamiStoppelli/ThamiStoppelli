@@ -1,10 +1,10 @@
 # Hi, I'm Thamires Stoppelli
 
-Frontend & UI/UX Developer with full-stack experience, focused on building intuitive, responsive and user-centered web and mobile applications.
+Design Engineer, focused on building intuitive, responsive and user-centered web and mobile applications.
 
-I work mainly with React, Angular, TypeScript, React Native, Node.js and UI/UX Design. My background combines software development, product thinking and interface design, with experience in enterprise systems, SaaS platforms, mobile apps and data-driven products.
+I work mainly with React, Next.js, TypeScript, UI/UX Design, Figma, Angular and React Native. My background combines software development, product thinking and interface design, with experience in enterprise systems, SaaS platforms, mobile apps and data-driven products.
 
-Currently focused on international opportunities in frontend, UI/UX-focused and full-stack roles.
+Currently focused on international opportunities in frontend and UI/UX design roles.
 
 ## Featured Work
 
